@@ -1,0 +1,26 @@
+--temp-output:C:\Users\anthondd\documents\visual studio 2015\Projects\LINQSample\obj\Debug\dnx451\
+--out:C:\Users\anthondd\documents\visual studio 2015\Projects\LINQSample\bin\Debug\dnx451\LINQSample.exe
+--define:DEBUG
+--define:TRACE
+--define:DNX451
+--suppress-warning:CS1701
+--suppress-warning:CS1702
+--suppress-warning:CS1705
+--platform:x64
+--optimize:False
+--emit-entry-point:True
+--output-name:LINQSample
+--description:LINQSample Console Application
+--file-version:1.0.0.0
+--version:1.0.0.0
+--informational-version:1.0.0
+--target-framework:.NETFramework,Version=v4.5.1
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.1\System.Windows.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.1\mscorlib.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.1\System.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.1\System.Core.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.1\Microsoft.CSharp.dll
+C:\Users\anthondd\documents\visual studio 2015\Projects\LINQSample\Employee.cs
+C:\Users\anthondd\documents\visual studio 2015\Projects\LINQSample\EmployeeRepository.cs
+C:\Users\anthondd\documents\visual studio 2015\Projects\LINQSample\Program.cs
+C:\Users\anthondd\documents\visual studio 2015\Projects\LINQSample\Properties\AssemblyInfo.cs

@@ -1,0 +1,43 @@
+--temp-output:C:\Users\anthondd\Documents\Visual Studio 2015\Projects\LINQSample\obj\Debug\dnxcore50\
+--out:C:\Users\anthondd\Documents\Visual Studio 2015\Projects\LINQSample\bin\Debug\dnxcore50\LINQSample.dll
+--define:DEBUG
+--define:TRACE
+--define:DNXCORE50
+--suppress-warning:CS1701
+--suppress-warning:CS1702
+--suppress-warning:CS1705
+--optimize:False
+--emit-entry-point:True
+--output-name:LINQSample
+--description:LINQSample Console Application
+--file-version:1.0.0.0
+--version:1.0.0.0
+--informational-version:1.0.0
+--target-framework:DNXCore,Version=v5.0
+--reference:C:\Users\anthondd\.nuget\packages\Microsoft.CSharp\4.0.1-beta-23516\ref\dotnet5.1\Microsoft.CSharp.dll
+--reference:C:\Users\anthondd\.nuget\packages\System.Collections\4.0.11-beta-23516\ref\dotnet5.4\System.Collections.dll
+--reference:C:\Users\anthondd\.nuget\packages\System.Console\4.0.0-beta-23516\ref\dotnet5.1\System.Console.dll
+--reference:C:\Users\anthondd\.nuget\packages\System.Diagnostics.Debug\4.0.10\ref\dotnet\System.Diagnostics.Debug.dll
+--reference:C:\Users\anthondd\.nuget\packages\System.Dynamic.Runtime\4.0.0\ref\dotnet\System.Dynamic.Runtime.dll
+--reference:C:\Users\anthondd\.nuget\packages\System.Globalization\4.0.10\ref\dotnet\System.Globalization.dll
+--reference:C:\Users\anthondd\.nuget\packages\System.IO\4.0.0\ref\dotnet\System.IO.dll
+--reference:C:\Users\anthondd\.nuget\packages\System.Linq\4.0.1-beta-23516\ref\dotnet5.1\System.Linq.dll
+--reference:C:\Users\anthondd\.nuget\packages\System.Linq.Expressions\4.0.0\ref\dotnet\System.Linq.Expressions.dll
+--reference:C:\Users\anthondd\.nuget\packages\System.ObjectModel\4.0.10\ref\dotnet\System.ObjectModel.dll
+--reference:C:\Users\anthondd\.nuget\packages\System.Reflection\4.0.10\ref\dotnet\System.Reflection.dll
+--reference:C:\Users\anthondd\.nuget\packages\System.Reflection.Extensions\4.0.0\ref\dotnet\System.Reflection.Extensions.dll
+--reference:C:\Users\anthondd\.nuget\packages\System.Reflection.Primitives\4.0.0\ref\dotnet\System.Reflection.Primitives.dll
+--reference:C:\Users\anthondd\.nuget\packages\System.Reflection.TypeExtensions\4.0.0\ref\dotnet\System.Reflection.TypeExtensions.dll
+--reference:C:\Users\anthondd\.nuget\packages\System.Resources.ResourceManager\4.0.0\ref\dotnet\System.Resources.ResourceManager.dll
+--reference:C:\Users\anthondd\.nuget\packages\System.Runtime\4.0.21-beta-23516\ref\dotnet5.4\System.Runtime.dll
+--reference:C:\Users\anthondd\.nuget\packages\System.Runtime.Extensions\4.0.10\ref\dotnet\System.Runtime.Extensions.dll
+--reference:C:\Users\anthondd\.nuget\packages\System.Runtime.Handles\4.0.0\ref\dotnet\System.Runtime.Handles.dll
+--reference:C:\Users\anthondd\.nuget\packages\System.Runtime.InteropServices\4.0.20\ref\dotnet\System.Runtime.InteropServices.dll
+--reference:C:\Users\anthondd\.nuget\packages\System.Text.Encoding\4.0.0\ref\dotnet\System.Text.Encoding.dll
+--reference:C:\Users\anthondd\.nuget\packages\System.Threading\4.0.11-beta-23516\ref\dotnet5.4\System.Threading.dll
+--reference:C:\Users\anthondd\.nuget\packages\System.Threading.Tasks\4.0.0\ref\dotnet\System.Threading.Tasks.dll
+C:\Users\anthondd\Documents\Visual Studio 2015\Projects\LINQSample\Employee.cs
+C:\Users\anthondd\Documents\Visual Studio 2015\Projects\LINQSample\EmployeeRepository.cs
+C:\Users\anthondd\Documents\Visual Studio 2015\Projects\LINQSample\Hello.cs
+C:\Users\anthondd\Documents\Visual Studio 2015\Projects\LINQSample\Program.cs
+C:\Users\anthondd\Documents\Visual Studio 2015\Projects\LINQSample\Properties\AssemblyInfo.cs

@@ -1,0 +1,38 @@
+﻿-d:DEBUG
+-d:TRACE
+-d:DNXCORE50
+-nowarn:CS1701
+-nowarn:CS1702
+-nowarn:CS1705
+-debug:full
+-nostdlib
+-nologo
+"C:\Users\anthondd\Documents\Visual Studio 2015\Projects\LINQSample\obj\Debug\dnxcore50\dotnet-compile.assemblyinfo.cs"
+-out:"C:\Users\anthondd\Documents\Visual Studio 2015\Projects\LINQSample\bin\Debug\dnxcore50\LINQSample.dll"
+-r:"C:\Users\anthondd\.nuget\packages\Microsoft.CSharp\4.0.1-beta-23516\ref\dotnet5.1\Microsoft.CSharp.dll"
+-r:"C:\Users\anthondd\.nuget\packages\System.Collections\4.0.11-beta-23516\ref\dotnet5.4\System.Collections.dll"
+-r:"C:\Users\anthondd\.nuget\packages\System.Console\4.0.0-beta-23516\ref\dotnet5.1\System.Console.dll"
+-r:"C:\Users\anthondd\.nuget\packages\System.Diagnostics.Debug\4.0.10\ref\dotnet\System.Diagnostics.Debug.dll"
+-r:"C:\Users\anthondd\.nuget\packages\System.Dynamic.Runtime\4.0.0\ref\dotnet\System.Dynamic.Runtime.dll"
+-r:"C:\Users\anthondd\.nuget\packages\System.Globalization\4.0.10\ref\dotnet\System.Globalization.dll"
+-r:"C:\Users\anthondd\.nuget\packages\System.IO\4.0.0\ref\dotnet\System.IO.dll"
+-r:"C:\Users\anthondd\.nuget\packages\System.Linq\4.0.1-beta-23516\ref\dotnet5.1\System.Linq.dll"
+-r:"C:\Users\anthondd\.nuget\packages\System.Linq.Expressions\4.0.0\ref\dotnet\System.Linq.Expressions.dll"
+-r:"C:\Users\anthondd\.nuget\packages\System.ObjectModel\4.0.10\ref\dotnet\System.ObjectModel.dll"
+-r:"C:\Users\anthondd\.nuget\packages\System.Reflection\4.0.10\ref\dotnet\System.Reflection.dll"
+-r:"C:\Users\anthondd\.nuget\packages\System.Reflection.Extensions\4.0.0\ref\dotnet\System.Reflection.Extensions.dll"
+-r:"C:\Users\anthondd\.nuget\packages\System.Reflection.Primitives\4.0.0\ref\dotnet\System.Reflection.Primitives.dll"
+-r:"C:\Users\anthondd\.nuget\packages\System.Reflection.TypeExtensions\4.0.0\ref\dotnet\System.Reflection.TypeExtensions.dll"
+-r:"C:\Users\anthondd\.nuget\packages\System.Resources.ResourceManager\4.0.0\ref\dotnet\System.Resources.ResourceManager.dll"
+-r:"C:\Users\anthondd\.nuget\packages\System.Runtime\4.0.21-beta-23516\ref\dotnet5.4\System.Runtime.dll"
+-r:"C:\Users\anthondd\.nuget\packages\System.Runtime.Extensions\4.0.10\ref\dotnet\System.Runtime.Extensions.dll"
+-r:"C:\Users\anthondd\.nuget\packages\System.Runtime.Handles\4.0.0\ref\dotnet\System.Runtime.Handles.dll"
+-r:"C:\Users\anthondd\.nuget\packages\System.Runtime.InteropServices\4.0.20\ref\dotnet\System.Runtime.InteropServices.dll"
+-r:"C:\Users\anthondd\.nuget\packages\System.Text.Encoding\4.0.0\ref\dotnet\System.Text.Encoding.dll"
+-r:"C:\Users\anthondd\.nuget\packages\System.Threading\4.0.11-beta-23516\ref\dotnet5.4\System.Threading.dll"
+-r:"C:\Users\anthondd\.nuget\packages\System.Threading.Tasks\4.0.0\ref\dotnet\System.Threading.Tasks.dll"
+"C:\Users\anthondd\Documents\Visual Studio 2015\Projects\LINQSample\Employee.cs"
+"C:\Users\anthondd\Documents\Visual Studio 2015\Projects\LINQSample\EmployeeRepository.cs"
+"C:\Users\anthondd\Documents\Visual Studio 2015\Projects\LINQSample\Hello.cs"
+"C:\Users\anthondd\Documents\Visual Studio 2015\Projects\LINQSample\Program.cs"
+"C:\Users\anthondd\Documents\Visual Studio 2015\Projects\LINQSample\Properties\AssemblyInfo.cs"
